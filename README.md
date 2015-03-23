@@ -18,7 +18,7 @@ https://code.google.com/p/modbus-tk
 3. Upload and run the example sketch
 
 ##Usage
-Once installed, the modbus_tcp_slave.py script is configured and launched from the Arduino sketch. This example uses only Holding Register (float). Other encodings can be implemented by modifying the Python script.
+Once installed, the modbus_tcp_slave.py script is configured and launched from the Arduino sketch. This example uses only Holding Register (float). Other encodings can easily be implemented with minor modifications to the Python script.
 
 ##Performance
 
