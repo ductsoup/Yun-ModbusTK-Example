@@ -1,5 +1,5 @@
 # Yun-ModbusTK-Example
-A Modbus TCP slave example for Yun that uses the modbus-tk library.
+A Modbus TCP slave example for Arduino Yun that uses the modbus-tk library.
 
 ##Overview
 
