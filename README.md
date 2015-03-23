@@ -11,12 +11,15 @@ Data is passed to external Modbus masters using the modbus-tk library.
 
 https://code.google.com/p/modbus-tk
 
-Once installed, the modbus_tcp_slave.py script is configured and launched from the Arduino sketch. This example uses only Holding Register (float). Other encodings can be implemented by modifying the Python script.
-Setup
+##Installation
 
 1. Complete the initial Yun setup (http://arduino.cc/en/Guide/ArduinoYun)
 2. Copy the modbus-tk library to a microSD card or jump drive and follow the installation instructions, also copy the modbus_tcp_slave.py script
 3. Upload and run the example sketch
+
+##Usage
+Once installed, the modbus_tcp_slave.py script is configured and launched from the Arduino sketch. This example uses only Holding Register (float). Other encodings can be implemented by modifying the Python script.
+Setup
 
 ##Performance
 
