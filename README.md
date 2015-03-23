@@ -3,7 +3,7 @@ A Modbus TCP slave example for Yun that uses the modbus-tk library.
 
 ##Overview
 
-This example uses the modbus-tk library to implement Modbus on the Yun's AR9331 processor to conserve resources on the ATmega32U4 processor. Data is passed between the two processors using the Bridge library.
+This example uses the modbus-tk library to implement Modbus on the Yun's AR9331 processor to conserve resources on the ATmega32u4 processor. Data is passed between the two processors using the Bridge library.
 
 http://arduino.cc/en/Guide/ArduinoYun#toc16
 
