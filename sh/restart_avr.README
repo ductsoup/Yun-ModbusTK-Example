@@ -1,0 +1,3 @@
+# clean restart avr
+kill `pidof python`
+/usr/bin/reset-mcu

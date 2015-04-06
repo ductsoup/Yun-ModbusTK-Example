@@ -1,0 +1,20 @@
+#
+# 2015-04-05
+# Install modbus-tk lib on Yun
+#
+cd /mnt/sda1
+
+wget --no-check-certificate https://pypi.python.org/packages/source/s/setuptools/setuptools-6.0.2.tar.gz
+tar xvzf setuptools-6.0.2.tar.gz
+cd setuptools-6.0.2
+python setup.py install
+cd /mnt/sda1
+rm setuptools-6.0.2.tar.gz
+
+wget --no-check-certificate https://pypi.python.org/packages/source/m/modbus_tk/modbus_tk-0.4.3.tar.gz
+tar xvzf modbus_tk-0.4.3.tar.gz
+cd modbus_tk-0.4.3
+python setup.py install
+cd /mnt/sda1
+rm modbus_tk-0.4.3.tar.gz
+
