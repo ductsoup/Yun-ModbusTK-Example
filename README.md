@@ -23,3 +23,9 @@ Once installed, the modbus_tcp_slave.py script is configured and launched from t
 ##Performance
 
 On the AVR side the sketch uses about 57% of progam storage space. On the OpenWrt side the bridge and slave scripts consume about 25% of memory and 20% CPU.
+
+##Troubleshooting
+
+If you're having trouble with Modbus address errors there's a very good tutorial from Control Solutions Minnesota here: 
+
+(http://www.csimn.com/CSI_pages/Modbus101.html)
