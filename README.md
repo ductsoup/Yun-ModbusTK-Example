@@ -26,6 +26,6 @@ On the AVR side the sketch uses about 57% of progam storage space. On the OpenWr
 
 ##Troubleshooting
 
-If you're having trouble with Modbus address errors there's a very good tutorial from Control Solutions Minnesota here: 
+If you're having trouble with Modbus address errors there's a very good tutorial from Control Solutions Minnesota available. 
 
-(http://www.csimn.com/CSI_pages/Modbus101.html)
+http://www.csimn.com/CSI_pages/Modbus101.html
